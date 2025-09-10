@@ -44,7 +44,7 @@ Our e-commerce platform currently processes 50,000 orders per day, with peak tra
 
 ## Deliverable
 
-Write a 1-2 page system design document using the [RFC template by Juan Pablo Buriticá](https://github.com/buritica/mgt/blob/master/templates/rfc_template.md). Focus on:
+Write a 1-2 page system design document using the [RFC template by Juan Pablo Buriticá](https://github.com/buritica/mgt/blob/master/templates/rfc_template.md) as a starting point. You don't need to follow the exact same structure as the template, but use it as guidance. What matters is delivering your ideas in a concise document. Focus on:
 
 - High-level architecture
 - Technology choices and rationale
