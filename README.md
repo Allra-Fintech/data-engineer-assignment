@@ -6,11 +6,10 @@ You are tasked with designing a real-time analytics platform for a growing e-com
 
 ## Business Context
 
-Our e-commerce platform currently processes 50,000 orders per day, with peak traffic during sales events reaching 500,000 orders per day. The business needs real-time insights to:
+Our e-commerce platform currently processes 50,000 orders per day, with peak traffic during sales events reaching 500,000 orders per day. The business needs insights to:
 
 - Monitor key business metrics (GMV, conversion rates, inventory levels)
-- Detect fraud patterns and anomalies
-- Personalize user experiences based on behavior
+- Personalize user experiences in real-time based on behavior
 - Generate daily/weekly executive reports
 
 ## Current State
@@ -25,7 +24,7 @@ Our e-commerce platform currently processes 50,000 orders per day, with peak tra
 **Functional:**
 
 - Ingest data from multiple sources in real-time
-- Process and transform data with <5 minute latency for real-time metrics
+- Enable near real-time personalization features for ML models with <5 minute latency
 - Support both streaming and batch analytics
 - Handle schema evolution gracefully
 
@@ -39,8 +38,8 @@ Our e-commerce platform currently processes 50,000 orders per day, with peak tra
 
 - Must use cloud services (AWS, GCP, or Azure)
 - Cannot modify existing MySQL schema
-- Team has experience with Python, SQL, and basic Docker
-- **Time to deliver**: Solution must be implemented within 3 months
+- The team has experience with Python, SQL, and basic Docker
+- **Time to deliver**: The solution must be implemented within 3 months
 
 ## Deliverable
 
