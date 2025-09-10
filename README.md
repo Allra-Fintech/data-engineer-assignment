@@ -50,3 +50,7 @@ Write a 1-2 page system design document using the [RFC template by Juan Pablo Bu
 - Data flow and processing strategy
 - Scalability and reliability considerations
 - Implementation phases/timeline
+
+## Submission
+
+Please send your completed document via email to: dev@allra.co.kr
